@@ -6,3 +6,12 @@ The project is based on regularizing irregular/non-uniform shapes and detecting 
 
 # OVERVIEW
 This project uses different mathematical optimization and machine learning techniques to detect and regularize shapes such as circles, squares and lines from a set of coordinates.
+
+# PREREQUISITES
+* Python
+* NumPy
+* Matplotlib
+* SciPy
+
+
+  
